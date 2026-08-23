@@ -1,1 +1,1 @@
-# Attandance-Recognition
+# face_recognition_project
